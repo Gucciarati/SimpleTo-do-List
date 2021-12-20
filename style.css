@@ -1,0 +1,12 @@
+html,body {
+    background-color: gray;
+}
+
+.container {
+    margin: 360px;
+}
+.paragraph-styling {
+    background: #ffffff;
+    color:black;
+    width: fit-content;
+}
